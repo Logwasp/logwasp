@@ -1,4 +1,6 @@
 ## Hi there 👋
+Logan Spencer, a student in the Oklahoma City metro area!
+I am currently working to expand my personal portfolio by engaging in learning projects to strengthen my coding and programming skills!
 
 <!--
 **Logwasp/logwasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
